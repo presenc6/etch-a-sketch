@@ -8,3 +8,12 @@ html {
     font-family: 'Times New Roman', Times, serif;
 }
 
+.container {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    width: 700px;
+    height: 700px;
+    border: 1px solid red;
+}
